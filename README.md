@@ -3,7 +3,7 @@ What is this?
 This is a utility for the popular online game, Blooket. It is currently under heavy development. It uses an advanced unique system that loads custom modified source code for Blooket. You can find these scripts in the scripts folder.
 
 How do I use this?
-Use this bookmarklet on the Blooket website: javascript:fetch('https://thatfrueddued.github.io/blooket-utility/index.js').then(r=>r.text()).then(t=>(new Function(t))())
+Use this bookmarklet on the Blooket website: javascript:fetch('https://sli6ky.github.io/blooket-utility/index.js').then(r=>r.text()).then(t=>(new Function(t))())
 
 How do I make a bookmarklet?
 Copy-paste the above code into the URL field of a bookmark in your web browser. Then, once on the Blooket page, click the bookmark.
@@ -12,7 +12,7 @@ Once you see the interface after you click the bookmarklet, toggle your desired 
 
 Features
 Injectables
-The easiest way to add your own (or other community members') features and code to this script. Click "Add Injectable", enter the URL, and be on your way! If you want to create your own injectables, read the guide at https://thatfrueddued.github.io/blooket-utility/guides/injectables.
+The easiest way to add your own (or other community members') features and code to this script. Click "Add Injectable", enter the URL, and be on your way! If you want to create your own injectables, read the guide at https://sli6ky.github.io/blooket-utility/guides/injectables.
 
 Mod Menu
 Some scripts and injectables may come with a Mod Menu that appears in the bottom left corner of the screen. To show or hide the mod menu, do shift + \ on your keyboard. Please open an issue or a pull request if you have an idea of how to bring the show/hide functionality to mobile.
